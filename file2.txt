@@ -1,2 +1,2 @@
 second file
-some text on 2nd line
+some text on 2nd line ( changed )
